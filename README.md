@@ -1,4 +1,4 @@
-# AzureFunctionHttpClientFactoryPollyLogging
+# Azure Function HttpClientFactory Polly Logging
 A quick example of how to build a resilient Azure HttpTrigger function using 
 
   - .NET Core 2.2
