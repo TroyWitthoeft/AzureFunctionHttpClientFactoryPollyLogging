@@ -1,9 +1,9 @@
 # Azure Function HttpClientFactory Polly Logging
 A quick example of how to build a resilient Azure HttpTrigger function using 
 
-  - .NET Core 2.2
+  - .NET Core 2.1
   - C#
-  - Azure Functions (Http Trigger)
+  - Azure Functions V2 (Http Trigger)
   - HttpClientFactory 
   - Dependency Injection
   - Polly with exponential retries and retry logging.
