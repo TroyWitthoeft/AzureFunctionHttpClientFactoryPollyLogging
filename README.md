@@ -1,3 +1,4 @@
 # AzureFunctionHttpClientFactoryPollyLogging
 A quick example of how to build a resilient Azure HttpTrigger function using HttpClientFactory and Polly with exponential retries and logging.
 
+![Polly](https://camo.githubusercontent.com/34b63e5aeab626ae9686f7243db578ca5dfdb21d/68747470733a2f2f7261772e6769746875622e636f6d2f4170702d764e6578742f506f6c6c792f6d61737465722f506f6c6c792d4c6f676f2e706e67)
