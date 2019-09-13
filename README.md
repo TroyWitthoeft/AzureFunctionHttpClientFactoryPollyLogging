@@ -14,4 +14,5 @@ A quick example of how to build a resilient Azure HttpTrigger function using
 
 This github project was inspried by the following articles.
 [Use HttpClientFactory to implement resilient HTTP requests](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/implement-resilient-applications/use-httpclientfactory-to-implement-resilient-http-requests)
+
 [Using Polly with HttpClient factory from ASPNET Core 2.1](https://github.com/App-vNext/Polly/wiki/Polly-and-HttpClientFactory#using-polly-with-httpclient-factory-from-aspnet-core-21)
