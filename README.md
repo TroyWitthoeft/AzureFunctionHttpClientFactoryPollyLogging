@@ -1,5 +1,5 @@
 # Azure Function HttpClientFactory Polly Logging
-A quick example of how to build a resilient Azure HttpTrigger function using 
+A quick example of how to build a resilient http endpoint.  This project uses 
 
   - C#
   - .NET Core 2.1
