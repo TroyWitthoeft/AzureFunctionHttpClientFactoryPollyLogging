@@ -8,7 +8,7 @@ A quick example of how to build a resilient Azure HttpTrigger function using
   - Dependency Injection
   - Polly with exponential retries and retry logging.
 
-![Azure Functions](https://raw.githubusercontent.com/Runamok81/AzureFunctionHttpClientFactoryPollyLogging/master/Images/azure-functions-logo-color-raster.png)![Polly](https://raw.githubusercontent.com/Runamok81/AzureFunctionHttpClientFactoryPollyLogging/master/Images/Polly-Logo%402x.png)
+![Azure Functions](https://raw.githubusercontent.com/Runamok81/AzureFunctionHttpClientFactoryPollyLogging/master/Images/azure-functions-logo-color-raster.png)![Polly](https://raw.githubusercontent.com/Runamok81/AzureFunctionHttpClientFactoryPollyLogging/master/Images/Polly-Logo%402x.png)![dotnetcore](https://raw.githubusercontent.com/Runamok81/AzureFunctionHttpClientFactoryPollyLogging/master/Images/dotnetcore.png)
 
 ![Example](https://raw.githubusercontent.com/Runamok81/AzureFunctionHttpClientFactoryPollyLogging/master/Images/VSCodeTerminalPollyLog.gif)
 
