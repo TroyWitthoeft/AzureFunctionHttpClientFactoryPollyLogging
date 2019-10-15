@@ -4,6 +4,7 @@
 
 A quick example of how to build a resilient http endpoint.  This project uses 
 
+  - VS Code
   - C#
   - .NET Core 2.1
   - Azure Functions V2 (Http Trigger)
