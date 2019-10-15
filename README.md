@@ -1,4 +1,7 @@
 # Azure Function HttpClientFactory Polly Logging
+
+![Azure Functions](https://raw.githubusercontent.com/Runamok81/AzureFunctionHttpClientFactoryPollyLogging/master/Images/azure-functions-logo-color-raster.png)![Polly](https://raw.githubusercontent.com/Runamok81/AzureFunctionHttpClientFactoryPollyLogging/master/Images/Polly-Logo%402x.png)![dotnetcore](https://raw.githubusercontent.com/Runamok81/AzureFunctionHttpClientFactoryPollyLogging/master/Images/dotnetcore.png)
+
 A quick example of how to build a resilient http endpoint.  This project uses 
 
   - C#
@@ -7,8 +10,6 @@ A quick example of how to build a resilient http endpoint.  This project uses
   - HttpClientFactory 
   - Dependency Injection
   - Polly with exponential retries and retry logging.
-
-![Azure Functions](https://raw.githubusercontent.com/Runamok81/AzureFunctionHttpClientFactoryPollyLogging/master/Images/azure-functions-logo-color-raster.png)![Polly](https://raw.githubusercontent.com/Runamok81/AzureFunctionHttpClientFactoryPollyLogging/master/Images/Polly-Logo%402x.png)![dotnetcore](https://raw.githubusercontent.com/Runamok81/AzureFunctionHttpClientFactoryPollyLogging/master/Images/dotnetcore.png)
 
 ![Example](https://raw.githubusercontent.com/Runamok81/AzureFunctionHttpClientFactoryPollyLogging/master/Images/VSCodeTerminalPollyLog.gif)
 
