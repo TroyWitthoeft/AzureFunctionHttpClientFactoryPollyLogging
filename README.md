@@ -6,8 +6,8 @@ A quick example of how to build a resilient http endpoint.  This project uses
 
   - VS Code (+ Azure Functions Extension)
   - C#
-  - .NET Core 2.1
-  - Azure Functions V2 (Http Trigger)
+  - .NET Core 3.1
+  - Azure Functions V3 (Http Trigger)
   - HttpClientFactory 
   - Dependency Injection
   - Polly with exponential retries and retry logging.
