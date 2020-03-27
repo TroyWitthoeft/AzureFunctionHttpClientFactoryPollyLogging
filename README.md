@@ -12,7 +12,7 @@ A quick example of how to build a resilient http endpoint.  This project uses
   - Dependency Injection
   - Polly with exponential retries and retry logging.
 
-![Example](https://raw.githubusercontent.com/Runamok81/AzureFunctionHttpClientFactoryPollyLogging/master/Images/VSCodeTerminalPollyLog.gif)
+![Example](https://raw.githubusercontent.com/Runamok81/AzureFunctionHttpClientFactoryPollyLogging/master/Images/VSCodeTerminalPollyLog3.gif)
 
 This github project was informed by the following articles.
 - [Use HttpClientFactory to implement resilient HTTP requests](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/implement-resilient-applications/use-httpclientfactory-to-implement-resilient-http-requests)
